@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+}
+
+.main {
+  margin: 0 200px;
+  display: flex;
+}
+
+.wrapper {
+  background-color: white;
+  padding: 30px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+.avatar {
+  display: block;
+}
